@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/eclipse/plugins/mysql-connector-java-8.0.16.jar"/>
+	<classpathentry kind="lib" path="C:/eclipse/plugins/org.eclipse.jdt.debug_3.13.0.v20190521-1707/MagicAudioPlayer.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
